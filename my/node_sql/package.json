@@ -1,0 +1,14 @@
+{
+  "name": "node_sql",
+  "version": "1.0.0",
+  "description": "Ues node.js to connection with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "ZhipengHuang",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

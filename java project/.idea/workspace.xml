@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53e77e33-4a29-4148-aca2-05e8ecba2ee9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLGnaYnUp1TZLhAtpFXAbddkR0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="thread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CollectionDemo01">
+    <configuration name="BooleanToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.BooleanToString" />
+      <module name="java grammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.CollectionDemo01" />
+      <module name="java grammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverLoad" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverLoad" />
+      <module name="java grammer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadDemo" />
+      <module name="java grammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectionDemo01" />
+        <item itemvalue="Application.BooleanToString" />
+        <item itemvalue="Application.ThreadDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e77e33-4a29-4148-aca2-05e8ecba2ee9" name="Default Changelist" comment="" />
+      <created>1584611128845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584611128845</updated>
+      <workItem from="1584611132529" duration="2889000" />
+      <workItem from="1584858857065" duration="1588000" />
+      <workItem from="1584966503682" duration="5314000" />
+      <workItem from="1585321578359" duration="8472000" />
+      <workItem from="1585573223359" duration="3187000" />
+      <workItem from="1585662110088" duration="5369000" />
+      <workItem from="1585976926143" duration="20034000" />
+      <workItem from="1586337759608" duration="10238000" />
+      <workItem from="1586842118649" duration="2918000" />
+      <workItem from="1586858167589" duration="2290000" />
+      <workItem from="1587028638172" duration="10000" />
+      <workItem from="1587044313629" duration="22722000" />
+      <workItem from="1587297152314" duration="1694000" />
+      <workItem from="1587367154996" duration="98000" />
+      <workItem from="1587367312046" duration="949000" />
+      <workItem from="1587461623453" duration="500000" />
+      <workItem from="1587535899995" duration="143000" />
+      <workItem from="1587536048398" duration="6000" />
+      <workItem from="1587536733553" duration="638000" />
+      <workItem from="1587561088769" duration="2086000" />
+      <workItem from="1587618446111" duration="12000" />
+      <workItem from="1587619560471" duration="357000" />
+      <workItem from="1587800230118" duration="4457000" />
+      <workItem from="1593425158263" duration="1158000" />
+      <workItem from="1594214056300" duration="1755000" />
+      <workItem from="1594979157399" duration="1708000" />
+      <workItem from="1602659201188" duration="1977000" />
+      <workItem from="1602661356188" duration="1441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="89" key="SettingsEditor" timestamp="1602740552787">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="328" y="89" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1602740552787" />
+    <state x="519" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1602661356995">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1594979157437" />
+    <state x="519" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.969@0.23.1680.969" timestamp="1602661356995" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingleDemo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InnerClassDemo.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.base/java/lang/Runnable.class</url>
+          <line>9</line>
+          <properties class="java.lang.Runnable" method="run">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
