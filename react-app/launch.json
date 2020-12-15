@@ -1,0 +1,39 @@
+{
+"version": "0.2.0",
+"configurations": [
+  {
+    "type": "chrome",
+    "request": "launch",
+    "name": "Launch Chrome_DemoSite",
+    "url": "http://localhost:8080/index.html",
+    "webRoot": "${workspaceFolder}"
+  },
+  {
+    "type": "node",
+    "name": "vscode-jest-tests",
+    "request": "launch",
+    "program": "${workspaceFolder}/scripts/test",
+    "args": [
+      "--env=jsdom",
+      "--runInBand",
+      "--transformIgnorePatterns",
+      "'node_modules/(?!(@adsk|@hig|react-base-table)/)'"
+    ],
+    "cwd": "${workspaceFolder}",
+    "console": "integratedTerminal",
+    "protocol": "inspector",
+    "internalConsoleOptions": "neverOpen",
+    "disableOptimisticBPs": true
+  },
+  
+    {
+        "type": "node",
+        "request": "launch",
+        "name": "Launch DataLoader",
+        "program": "${workspaceRoot}/src/utilities/dataloader/dataLoaderUtility.js",
+        "cwd":"${workspaceRoot}/src/utilities/dataloader/"
+    }
+
+  ]
+}
+

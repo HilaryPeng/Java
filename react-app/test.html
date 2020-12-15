@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+ let a = {name:'apeng', emptyButtonSize: 'large'}
+ let b = undefined;
+ const defaultPrimaryProps = {
+    emptyButtonSize: 'small',
+    emptyButtonType: 'primary',
+    emptyColorText: 'primary'
+  };
+const emptyStateSetting = {...a, ...defaultPrimaryProps};
+const emptyStateSetting2 = {...b, ...defaultPrimaryProps};
+const emptyStateSetting3 = {...defaultPrimaryProps, ...a};
+const emptyStateSetting4 = {...defaultPrimaryProps, ...b};
+console.log(emptyStateSetting, emptyStateSetting2,emptyStateSetting3, emptyStateSetting4)
+
+
+
+
+</script>
+</html>
